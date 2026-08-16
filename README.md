@@ -8,7 +8,7 @@
   <a href="YOUR_PORTFOLIO_URL">
     <img src="https://img.shields.io/badge/WEBSITE-000000?style=for-the-badge&logo=googlechrome&logoColor=white">
   </a>
-  <a href="YOUR_LINKEDIN_URL">
+  <a href="https://www.linkedin.com/in/vedant-mowad-46650236b/">
     <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
   <a href="https://github.com/vedantmowad">
@@ -40,14 +40,12 @@ real-world projects.
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
 </p>
 
 ### Backend & Web
 
 <p>
   <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white">
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white">
   <img src="https://img.shields.io/badge/REST_API-02569B?style=for-the-badge">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
@@ -80,23 +78,7 @@ with NGOs and help reduce food wastage.
 **Tech:** Python • Flask • MySQL • HTML • CSS • JavaScript
 
 **Repository:**  
-[FoodShare](YOUR_FOODSHARE_REPOSITORY_URL)
-
----
-
-### 🛕 Wari Annapurna
-
-A food discovery and redistribution platform designed for the
-Pandharpur Wari ecosystem.
-
-The platform focuses on helping Warkaris discover nearby food
-availability and improving coordination between food providers,
-volunteers and administrators.
-
-**Tech:** Python • Flask • MySQL • JavaScript
-
-**Repository:**  
-[Wari Annapurna](YOUR_WARI_REPOSITORY_URL)
+[FoodShare](https://github.com/vedantmowad/FoodShare.git)
 
 ---
 
@@ -107,7 +89,7 @@ An employee management application built using Python.
 **Tech:** Python
 
 **Repository:**  
-[Employee Management System](YOUR_EMPLOYEE_REPOSITORY_URL)
+[Employee Management System](https://github.com/vedantmowad/Employee-Management-System.git)
 
 ---
 
@@ -118,7 +100,7 @@ A Streamlit-based application for generating customized QR codes.
 **Tech:** Python • Streamlit
 
 **Repository:**  
-[QR Code Generator](YOUR_QR_REPOSITORY_URL)
+[QR Code Generator](https://github.com/vedantmowad/QR-Code-Generater.git)
 
 ---
 
