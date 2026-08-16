@@ -46,7 +46,6 @@ real-world projects.
 
 <p>
   <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white">
-  <img src="https://img.shields.io/badge/REST_API-02569B?style=for-the-badge">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
@@ -86,7 +85,7 @@ with NGOs and help reduce food wastage.
 
 An employee management application built using Python.
 
-**Tech:** Python
+**Tech:** Python • Streamlit
 
 **Repository:**  
 [Employee Management System](https://github.com/vedantmowad/Employee-Management-System.git)
@@ -124,14 +123,13 @@ solving programming problems.
 
 My solved LeetCode problems and DSA implementations:
 
-[📂 LeetCode Problems](YOUR_LEETCODE_REPOSITORY_URL)
+[📂 LeetCode Problems](https://github.com/vedantmowad/LeetCode-Problems.git)
 
 ---
 
 ## 🌱 Currently Learning
 
 - Advanced Data Structures & Algorithms
-- Backend Development
 - REST APIs
 - Machine Learning
 - AI fundamentals
