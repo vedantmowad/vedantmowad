@@ -64,6 +64,9 @@ Currently practicing:
 - Stack & Queue
 
 ---
+## 📊 GitHub Statistics
+
+![Vedant's GitHub stats](https://github-readme-stats.vercel.app/api?username=vedantmowad&show_icons=true&theme=tokyonight)
 
 ## 📫 Connect With Me
 
