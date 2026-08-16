@@ -5,8 +5,8 @@
 </h3>
 
 <p align="center">
-  <a href="YOUR_PORTFOLIO_URL">
-    <img src="https://img.shields.io/badge/WEBSITE-000000?style=for-the-badge&logo=googlechrome&logoColor=white">
+  <a href="https://vedantmowad.github.io">
+    <img src="https://img.shields.io/badge/PORTFOLIO-000000?style=for-the-badge&logo=googlechrome&logoColor=white">
   </a>
   <a href="https://www.linkedin.com/in/vedant-mowad-46650236b/">
     <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
