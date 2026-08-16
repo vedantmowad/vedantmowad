@@ -1,59 +1,133 @@
-# 👋 Hey, I'm Vedant Mowad
+<h1 align="center">Vedant Mowad</h1>
 
-### 💻 Backend Developer | 🤖 ML/AI Enthusiast | 🧠 DSA Learner
+<h3 align="center">
+💻 Backend Developer | 🤖 ML/AI Enthusiast | 🧠 DSA Learner
+</h3>
 
-I enjoy building practical software solutions and solving programming problems.
+<p align="center">
+  <a href="YOUR_PORTFOLIO_URL">
+    <img src="https://img.shields.io/badge/WEBSITE-000000?style=for-the-badge&logo=googlechrome&logoColor=white">
+  </a>
+  <a href="YOUR_LINKEDIN_URL">
+    <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+  <a href="https://github.com/vedantmowad">
+    <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white">
+  </a>
+</p>
 
 ---
 
-## 🚀 About Me
+## 👋 About
 
-- 💻 Building backend applications with Python
-- 🧠 Practicing Data Structures & Algorithms
-- 🤖 Exploring Machine Learning & AI
-- 🛠️ Building real-world software projects
-- 📚 Always learning something new
+I'm an engineering student passionate about software development,
+problem solving and building technology-driven solutions.
+
+I enjoy working with Python, backend development, databases and
+modern web technologies while continuously improving my Data
+Structures & Algorithms skills.
+
+Currently exploring Machine Learning and AI while building
+real-world projects.
 
 ---
 
 ## 🛠️ Tech Stack
 
 ### Languages
-C • C++ • Python • Java
 
-### Backend
-Flask • FastAPI • REST APIs • Node.js
+<p>
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
+</p>
 
-### Frontend
-HTML • CSS • JavaScript • Bootstrap
+### Backend & Web
+
+<p>
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white">
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white">
+  <img src="https://img.shields.io/badge/REST_API-02569B?style=for-the-badge">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+</p>
 
 ### Database
-MySQL
+
+<p>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
+</p>
 
 ### Tools
-Git • GitHub • VS Code
+
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white">
+</p>
 
 ---
 
 ## 🚀 Featured Projects
 
 ### 🍱 FoodShare
-Food redistribution platform connecting food donors and NGOs.
 
-### 🛕 Wari Annapurna
-A platform designed to help Warkaris discover food availability during Pandharpur Wari.
+A food redistribution platform designed to connect food donors
+with NGOs and help reduce food wastage.
 
-### 👨‍💼 Employee Management System
-Employee management application built using Python.
+**Tech:** Python • Flask • MySQL • HTML • CSS • JavaScript
 
-### 📱 QR Code Generator
-Streamlit application for generating customized QR codes.
+**Repository:**  
+[FoodShare](YOUR_FOODSHARE_REPOSITORY_URL)
 
 ---
 
-## 🧠 DSA Journey
+### 🛕 Wari Annapurna
 
-Currently practicing:
+A food discovery and redistribution platform designed for the
+Pandharpur Wari ecosystem.
+
+The platform focuses on helping Warkaris discover nearby food
+availability and improving coordination between food providers,
+volunteers and administrators.
+
+**Tech:** Python • Flask • MySQL • JavaScript
+
+**Repository:**  
+[Wari Annapurna](YOUR_WARI_REPOSITORY_URL)
+
+---
+
+### 👨‍💼 Employee Management System
+
+An employee management application built using Python.
+
+**Tech:** Python
+
+**Repository:**  
+[Employee Management System](YOUR_EMPLOYEE_REPOSITORY_URL)
+
+---
+
+### 📱 QR Code Generator
+
+A Streamlit-based application for generating customized QR codes.
+
+**Tech:** Python • Streamlit
+
+**Repository:**  
+[QR Code Generator](YOUR_QR_REPOSITORY_URL)
+
+---
+
+## 🧠 Competitive Programming & DSA
+
+Currently working on Data Structures & Algorithms and regularly
+solving programming problems.
+
+### Areas I'm Practicing
 
 - Arrays
 - Binary Search
@@ -62,16 +136,33 @@ Currently practicing:
 - Hashing
 - Strings
 - Stack & Queue
+- Linked Lists
+
+### LeetCode
+
+My solved LeetCode problems and DSA implementations:
+
+[📂 LeetCode Problems](YOUR_LEETCODE_REPOSITORY_URL)
 
 ---
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vedantmowad&layout=compact&theme=tokyonight)
-## 📊 GitHub Statistics
 
-<img src="https://github-readme-stats.vercel.app/api?username=vedantmowad&show_icons=true&theme=tokyonight" />
-## 📫 Connect With Me
+## 🌱 Currently Learning
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vedantmowad)
+- Advanced Data Structures & Algorithms
+- Backend Development
+- REST APIs
+- Machine Learning
+- AI fundamentals
+- Modern web technologies
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vedant-mowad-46650236b/)
+---
 
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vedantmowad@gmail.com)
+## 📌 Personal Note
+
+> Build skills daily. Build projects. Keep solving.
+
+---
+
+<p align="center">
+  Thanks for visiting my profile! 🚀
+</p>
