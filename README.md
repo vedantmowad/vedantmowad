@@ -1,7 +1,7 @@
 <h1 align="center">Vedant Mowad</h1>
 
 <h3 align="center">
-💻 Backend Developer | 🤖 ML/AI Enthusiast | 🧠 DSA Learner
+💻 Web Developer | 🤖 ML/AI Enthusiast | 🧠 DSA Learner
 </h3>
 
 <p align="center">
