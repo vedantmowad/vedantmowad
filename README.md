@@ -64,6 +64,7 @@ Currently practicing:
 - Stack & Queue
 
 ---
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vedantmowad&layout=compact&theme=tokyonight)
 ## 📊 GitHub Statistics
 
 ![Vedant's GitHub stats](https://github-readme-stats.vercel.app/api?username=vedantmowad&show_icons=true&theme=tokyonight)
